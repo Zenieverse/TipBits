@@ -1,6 +1,7 @@
 # TipBits
 https://vimeo.com/1081394648/016e159f33?ts=0&share=copy
 https://gemini.google.com/share/054bc84b5584 
+https://poe.com/TipBits 
 <!DOCTYPE html>
 <html lang="en">
 <head>
